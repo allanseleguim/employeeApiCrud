@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funcionariosApi", "funcionariosApi.csproj", "{EEF7DA0D-6216-4814-BF05-E5A3656819D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF7DA0D-6216-4814-BF05-E5A3656819D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF7DA0D-6216-4814-BF05-E5A3656819D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF7DA0D-6216-4814-BF05-E5A3656819D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF7DA0D-6216-4814-BF05-E5A3656819D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599C830F-B4FD-48FF-8A44-20F9267EB421}
+	EndGlobalSection
+EndGlobal
